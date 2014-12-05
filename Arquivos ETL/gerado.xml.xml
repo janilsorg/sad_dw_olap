@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rows>
+ <Row><CPF>1</CPF> <ENDEREÇO>ENDERE&#xc7;O 01</ENDEREÇO> </Row>
+ <Row><CPF>2</CPF> <ENDEREÇO>ENDERE&#xc7;O 02</ENDEREÇO> </Row>
+ <Row><CPF>3</CPF> <ENDEREÇO>ENDERE&#xc7;O 03</ENDEREÇO> </Row>
+ <Row><CPF>4</CPF> <ENDEREÇO>ENDERE&#xc7;O 04</ENDEREÇO> </Row>
+ <Row><CPF>5</CPF> <ENDEREÇO>ENDERE&#xc7;O 05</ENDEREÇO> </Row>
+ <Row><CPF>6</CPF> <ENDEREÇO>ENDERE&#xc7;O 06</ENDEREÇO> </Row>
+ <Row><CPF>7</CPF> <ENDEREÇO>ENDERE&#xc7;O 07</ENDEREÇO> </Row>
+ <Row><CPF>8</CPF> <ENDEREÇO>ENDERE&#xc7;O 08</ENDEREÇO> </Row>
+ <Row><CPF>9</CPF> <ENDEREÇO>ENDERE&#xc7;O 09</ENDEREÇO> </Row>
+ <Row><CPF>10</CPF> <ENDEREÇO>ENDERE&#xc7;O 10</ENDEREÇO> </Row>
+</Rows>
